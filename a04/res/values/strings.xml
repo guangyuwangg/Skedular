@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LoginActivity!</string>
+    <string name="app_name">g28wang\'s Skedulr</string>
+    <string name="inputusername">Please enter your username here</string>
+    <string name="enterusername">Enter Username:</string>
+    <string name="inputpassword">Enter Password:</string>
+    <string name="inputsurname">Entern Surname</string>
+    <string name="inptsurname">Enter Surname:</string>
+    <string name="inputgname">Enter Given_name:</string>
+    <string name="Subject">Subject</string>
+    <string name="Catalog">Catalog</string>
+
+</resources>
